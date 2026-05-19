@@ -1,4 +1,4 @@
-# **Geometric Visualization of the 3n+5 Problem**
+# **Geometric Visualization of the 3n+5 Collatz Variant**
 
 **Voronoi Tessellation and Six Stable Basins of Attraction in Binary Logarithmic Spiral Space**  
 
